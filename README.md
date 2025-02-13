@@ -1,4 +1,11 @@
 # ImageGeneration
+![02](https://github.com/user-attachments/assets/4affbbdc-faf2-4083-bc05-f389f63333ae)
+![01](https://github.com/user-attachments/assets/bae3e5b1-95b5-43ef-911d-698dadf07e3b)
+![05](https://github.com/user-attachments/assets/8c147f78-0255-4798-8d45-557e49ed3186)
+![04](https://github.com/user-attachments/assets/8da987fd-3907-4a3e-be2a-3465eea53ae0)
+![03](https://github.com/user-attachments/assets/844576f3-5afe-4341-a1ca-9a3987bb2708)
+
+
 Prerequisites:
 Install Python: Ensure you have Python (preferably version 3.8 or above) installed.
 Install ComfyUI: ComfyUI is an easy-to-use interface for working with Stable Diffusion. You can download it from its GitHub page or via instructions provided by the developers.
